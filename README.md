@@ -27,6 +27,10 @@ other content, and it works on vanilla servers.
 
 Languages: English, Русский, Українська.
 
+## Download
+Ready-made jars for every Minecraft version are in [`releases/`](releases/), one folder per version
+(for example [`releases/1.21.1/`](releases/1.21.1/)). Fabric also needs Fabric API.
+
 ## Versions
 | Loader | Minecraft |
 |---|---|
