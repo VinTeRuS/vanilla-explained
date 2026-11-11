@@ -1,6 +1,6 @@
 modLoader = "javafml"
 loaderVersion = "[47,)"
-license = "PolyForm-Shield-1.0.0"
+license = "Polyform-Shield-1.0.0"
 issueTrackerURL = "${sources}/issues"
 
 [[mods]]

@@ -1,0 +1,10 @@
+Third-party license notices
+===========================
+
+The Gradle and Stonecutter build scripts in this repository (settings.gradle.kts,
+stonecutter.gradle.kts, build.fabric.gradle.kts, build.forge.gradle.kts and buildSrc/)
+are adapted from Stalemated/template-mod:
+
+    https://github.com/Stalemated/template-mod
+    Copyright (c) 2026 Stalemated
+    MIT License, full text in thirdparty/LICENSE-stalemated-template-mod.txt

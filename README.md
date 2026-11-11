@@ -52,9 +52,9 @@ Tests:
 - `VE_SMOKE=1 ./gradlew :<version>-<loader>:runClient`: a smoke test for versions without the
   gametest API. It opens every panel on the title screen, saves screenshots and quits.
 
-## License
-PolyForm Shield 1.0.0, see `LICENSE.md`.
-Required Notice: Copyright 2026 VinTeRuS
+## 📜 License
 
-The Gradle/Stonecutter build scripts are adapted from
-[Stalemated/template-mod](https://github.com/Stalemated/template-mod) (MIT, see `LICENSE-build-template.txt`).
+Except where otherwise stated (see [third-party license notices](thirdparty/NOTICE.txt)), the content of this
+repository is provided under the [Polyform Shield 1.0.0](LICENSE.md) license by VinTeRuS.
+
+Required Notice: Copyright 2026 VinTeRuS (https://github.com/VinTeRuS/vanilla-explained)
