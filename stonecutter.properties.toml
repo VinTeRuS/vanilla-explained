@@ -23,16 +23,6 @@ deps.fabric_api = "0.92.12+1.20.1"
 mod.mc_compat = "[1.20, 1.20.1]"
 deps.forge_loader = "1.20.1-47.4.29"
 
-["1.20.4"]
-[fabric."1.20.4"]
-mod.mc_compat = ">=1.20.2 <=1.20.4"
-deps.fabric_api = "0.97.3+1.20.4"
-
-["1.20.6"]
-[fabric."1.20.6"]
-mod.mc_compat = ">=1.20.5 <=1.20.6"
-deps.fabric_api = "0.100.8+1.20.6"
-
 ["1.21.1"]
 [fabric."1.21.1"]
 mod.mc_compat = ">=1.21 <=1.21.1"
