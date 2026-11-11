@@ -1,0 +1,16 @@
+{
+	"schemaVersion": 1,
+	"id": "vanillaexplained-gametest",
+	"version": "1.0.0",
+	"name": "Vanilla Explained in-game tests",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-client-gametest": [
+			"dev.vinterus.vanillaexplained.gametest.InGameTest",
+			"dev.vinterus.vanillaexplained.gametest.GalleryShots"
+		]
+	},
+	"depends": {
+		"vanillaexplained": "*"
+	}
+}

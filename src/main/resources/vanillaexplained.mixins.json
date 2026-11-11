@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "dev.vinterus.vanillaexplained.client.mixin",
+	"compatibilityLevel": "${mixin_compatibility}",
+	"minVersion": "0.8",
+	"client": [
+		"DiodeBlockInvoker"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
